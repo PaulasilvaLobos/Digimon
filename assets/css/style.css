@@ -1,0 +1,63 @@
+.tarjeta {
+    margin: 2%;
+    display: inline-block;
+    
+
+}
+
+.card{
+    background-color: rgb(37, 37, 207);
+}
+.card-body{
+    color: azure;
+}
+
+#contenido{
+    font-style: oblique;
+    
+}
+
+h3{
+    font-style: oblique;
+    color:white;
+    background-color:blue;
+    width: 50%;
+    align-items: center;
+    padding: 2%;
+  
+   
+    
+
+}
+h6{
+    color: antiquewhite;
+}
+
+#pregunta{
+    color: blue;
+    font-style: oblique;
+    text-shadow: 3%;
+}
+
+#cerrarVentana{
+    background-color: rgb(235, 236, 243);
+    color:blue;
+    border-radius: 3%;
+    border-color: blue;
+
+}
+
+#miVentana{
+    padding: 2%;
+}
+.container{
+    border: 2px solid;
+    border-color: blue;
+    width: 25%;
+    padding-bottom: 1%;
+    margin: 3%;
+    margin-bottom: 5%;
+    text-align:left;
+    border-radius: 20px;
+
+}
